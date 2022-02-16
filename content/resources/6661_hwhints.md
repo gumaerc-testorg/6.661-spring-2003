@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-661-receivers-antennas-and-signals-spring-2003/23dc1ac8ffbdcdc4feec48b6ab6a3f2a_6661_hwhints.pdf
+file: /media/courses/6-661-receivers-antennas-and-signals-spring-2003/23dc1ac8ffbdcdc4feec48b6ab6a3f2a_6661_hwhints.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 6661_hwhints.pdf
 uid: 23dc1ac8-ffbd-cdc4-feec-48b6ab6a3f2a
