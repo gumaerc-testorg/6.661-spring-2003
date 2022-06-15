@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,4 +20,4 @@ Quiz 1 is after Lecture 14 and Quiz 2 is after Lecture 24. Each quiz is 1.5 hour
 Course Texts
 ------------
 
-Draft of [textbook]({{< baseurl >}}/pages/readings), plus [slides]({{< baseurl >}}/pages/lecture-notes) handed out prior to lecture.
+Draft of {{% resource_link ceaa1d22-faa9-c139-6e88-8b778fd50b1a "textbook" %}}, plus {{% resource_link a9f98e5d-a76d-5892-82b8-c2b2a1428576 "slides" %}} handed out prior to lecture.

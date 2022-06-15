@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction and Review ([PDF]({{< baseurl >}}/resources/lecture01))
+Introduction and Review ({{% resource_link c76d2051-feba-4049-b450-af7b439794c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Introduction and Review ([PDF]({{< baseurl >}}/resources/lecture01))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Review, Thermal Noise ([PDF]({{< baseurl >}}/resources/lecture02))
+Review, Thermal Noise ({{% resource_link cf6a7186-0123-431d-874a-d72da5ad5af7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Review, Thermal Noise ([PDF]({{< baseurl >}}/resources/lecture02))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-3-D Thermal Noise, Shot N ([PDF]({{< baseurl >}}/resources/lecture03))
+3-D Thermal Noise, Shot N ({{% resource_link c5545d51-12ac-7ad7-a2a1-034b32c5a0b1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Review, Thermal Noise ([PDF]({{< baseurl >}}/resources/lecture02))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Receiver Power Sensitivity ([PDF]({{< baseurl >}}/resources/lecture04))
+Receiver Power Sensitivity ({{% resource_link a239ba9c-0ba7-b783-0461-0ded975d9c11 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Receiver Power Sensitivity ([PDF]({{< baseurl >}}/resources/lecture04))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Spectral Measurements, G, F ([PDF]({{< baseurl >}}/resources/lecture05))
+Spectral Measurements, G, F ({{% resource_link fb4e2768-4600-27ab-c1ed-0e7544d1ed5b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Spectral Measurements, G, F ([PDF]({{< baseurl >}}/resources/lecture05))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Receiver Noise, Multiports ([PDF]({{< baseurl >}}/resources/lecture06))
+Receiver Noise, Multiports ({{% resource_link 34219e23-d858-375d-1c80-2669f2969dfc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Receiver Noise, Multiports ([PDF]({{< baseurl >}}/resources/lecture06))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Mixers, Noise Reduction, PTs ([PDF]({{< baseurl >}}/resources/lecture07))
+Mixers, Noise Reduction, PTs ({{% resource_link e63a7bc5-1c38-95ce-5772-c7b451476c5d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ Mixers, Noise Reduction, PTs ([PDF]({{< baseurl >}}/resources/lecture07))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Optical Detection ([PDF]({{< baseurl >}}/resources/lecture08))
+Optical Detection ({{% resource_link 9acf0612-5bf2-899e-005e-1876e0171a07 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Optical Detection ([PDF]({{< baseurl >}}/resources/lecture08))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Bolometers, Antenna Basics ([PDF]({{< baseurl >}}/resources/lecture09))
+Bolometers, Antenna Basics ({{% resource_link eb249537-eed2-0d08-65d5-260804efa9f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ Bolometers, Antenna Basics ([PDF]({{< baseurl >}}/resources/lecture09))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Basic Wire Antennas, Arrays ([PDF]({{< baseurl >}}/resources/lecture10))
+Basic Wire Antennas, Arrays ({{% resource_link a477b5fb-c2de-e5e3-b685-1957704ae14b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Basic Wire Antennas, Arrays ([PDF]({{< baseurl >}}/resources/lecture10))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Wire Antennas ([PDF]({{< baseurl >}}/resources/lecture11))
+Wire Antennas ({{% resource_link 3cdf1699-9bcd-9fd6-3dd3-312d91edc37a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +125,7 @@ Wire Antennas ([PDF]({{< baseurl >}}/resources/lecture11))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Aperture Antennas ([PDF]({{< baseurl >}}/resources/lecture12))
+Aperture Antennas ({{% resource_link 82744f45-ab46-a18e-ff40-89bfd8813344 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +134,7 @@ Aperture Antennas ([PDF]({{< baseurl >}}/resources/lecture12))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Polarization, Phase Errors ([PDF]({{< baseurl >}}/resources/lecture13))
+Polarization, Phase Errors ({{% resource_link a7ae1cf1-7a91-424c-e08a-70c21bb17215 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +143,7 @@ Polarization, Phase Errors ([PDF]({{< baseurl >}}/resources/lecture13))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Binary Communications ([PDF]({{< baseurl >}}/resources/lecture14))
+Binary Communications ({{% resource_link 26b4cbbd-b4ff-d131-6b24-b7fb21e2efca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +161,7 @@ Quiz 1 (Closed Book)
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Channel Coding ([PDF]({{< baseurl >}}/resources/lecture15))
+Channel Coding ({{% resource_link 3b8d7427-8a5f-fa6f-2d5f-d44c794a67e6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ Channel Coding ([PDF]({{< baseurl >}}/resources/lecture15))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Source Coding, Analog Basics ([PDF]({{< baseurl >}}/resources/lecture16))
+Source Coding, Analog Basics ({{% resource_link c7cfd1ce-ef70-e38a-0ac5-a0090763e8da "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +179,7 @@ Source Coding, Analog Basics ([PDF]({{< baseurl >}}/resources/lecture16))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Analog Modulation ([PDF]({{< baseurl >}}/resources/lecture17))
+Analog Modulation ({{% resource_link 54de375b-98a8-b8eb-cae3-4e090fac4abd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +188,7 @@ Analog Modulation ([PDF]({{< baseurl >}}/resources/lecture17))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Aperture Synthesis ([PDF - 1.7 MB]({{< baseurl >}}/resources/lecture18))
+Aperture Synthesis ({{% resource_link 893669e1-e175-fcba-8c6c-3674a7a79bee "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +197,7 @@ Aperture Synthesis ([PDF - 1.7 MB]({{< baseurl >}}/resources/lecture18))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Interferometry ([PDF]({{< baseurl >}}/resources/lecture19))
+Interferometry ({{% resource_link 11d2e4e7-9ec5-ec40-c498-ba4f9a57c4c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +206,7 @@ Interferometry ([PDF]({{< baseurl >}}/resources/lecture19))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Basic Radar, Ambiguity ([PDF]({{< baseurl >}}/resources/lecture20))
+Basic Radar, Ambiguity ({{% resource_link ab61e474-d947-04d2-ca85-b0a3a89a45b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +215,7 @@ Basic Radar, Ambiguity ([PDF]({{< baseurl >}}/resources/lecture20))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Synth. Aperture Radar (SAR) ([PDF]({{< baseurl >}}/resources/lecture21))
+Synth. Aperture Radar (SAR) ({{% resource_link 49f5662b-b980-9dba-bd65-b1abcdb4f2a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +224,7 @@ Synth. Aperture Radar (SAR) ([PDF]({{< baseurl >}}/resources/lecture21))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Wave Propagation ([PDF]({{< baseurl >}}/resources/lecture22))
+Wave Propagation ({{% resource_link 31ac5f26-ce3a-6b16-1310-e70f2bf585a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +233,7 @@ Wave Propagation ([PDF]({{< baseurl >}}/resources/lecture22))
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Linear, Non-Linear Estimation ([PDF]({{< baseurl >}}/resources/lecture23))
+Linear, Non-Linear Estimation ({{% resource_link 0e163cd3-415b-6426-1445-14fb6b7a0a3c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +244,7 @@ Linear, Non-Linear Estimation ([PDF]({{< baseurl >}}/resources/lecture23))
 {{< tdopen >}}
 Non-Linear Estimation (cont.)  
 Remote Sensing  
-Course Summary ([PDF]({{< baseurl >}}/resources/lecture24))
+Course Summary ({{% resource_link 0ed1504f-69d1-2f67-ba8b-cefb81a008ea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
