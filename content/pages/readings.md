@@ -1,371 +1,207 @@
 ---
 content_type: page
+description: ''
+draft: false
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ceaa1d22-faa9-c139-6e88-8b778fd50b1a
 ---
-
 This section provides links to chapters of Prof. David Staelin's draft textbook. The readings column refers to the relevant chapters and sections for each lecture. [Supplementary readings](#sup) are also provided below.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction and Review
-{{< tdclose >}}
-{{< tdopen >}}
-1 ([PDF]({{< baseurl >}}/resources/ch1new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+1 ({{% resource_link "72d76cb6-2568-9663-d82e-baf1cc0174d4" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Review, Thermal Noise
-{{< tdclose >}}
-{{< tdopen >}}
-2.1.1-2 ([PDF]({{< baseurl >}}/resources/ch2new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+2.1.1-2 ({{% resource_link "1c0d0742-8cff-75ed-a2f1-599e8368fd53" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 3-D Thermal Noise, Shot N
-{{< tdclose >}}
-{{< tdopen >}}
-2.1.3-4, 2.2.1 ([PDF]({{< baseurl >}}/resources/ch2new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+2.1.3-4, 2.2.1 ({{% resource_link "1c0d0742-8cff-75ed-a2f1-599e8368fd53" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Receiver Power Sensitivity
-{{< tdclose >}}
-{{< tdopen >}}
-2.2.2-3 ([PDF]({{< baseurl >}}/resources/ch2new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+2.2.2-3 ({{% resource_link "1c0d0742-8cff-75ed-a2f1-599e8368fd53" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Spectral Measurements, G, F
-{{< tdclose >}}
-{{< tdopen >}}
-2.2.4-6, 2.3.1 ([PDF]({{< baseurl >}}/resources/ch2new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+2.2.4-6, 2.3.1 ({{% resource_link "1c0d0742-8cff-75ed-a2f1-599e8368fd53" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Receiver Noise, Multiports
-{{< tdclose >}}
-{{< tdopen >}}
-2.3.2-5 ([PDF]({{< baseurl >}}/resources/ch2new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+2.3.2-5 ({{% resource_link "1c0d0742-8cff-75ed-a2f1-599e8368fd53" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Mixers, Noise Reduction, PTs
-{{< tdclose >}}
-{{< tdopen >}}
-2.3.6-7, 2.4.1 ([PDF]({{< baseurl >}}/resources/ch2new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+2.3.6-7, 2.4.1 ({{% resource_link "1c0d0742-8cff-75ed-a2f1-599e8368fd53" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Optical Detection
-{{< tdclose >}}
-{{< tdopen >}}
-2.4.2-5 ([PDF]({{< baseurl >}}/resources/ch2new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+2.4.2-5 ({{% resource_link "1c0d0742-8cff-75ed-a2f1-599e8368fd53" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Bolometers, Antenna Basics
-{{< tdclose >}}
-{{< tdopen >}}
-2.4.6 ([PDF]({{< baseurl >}}/resources/ch2new)), 3.1 ([PDF]({{< baseurl >}}/resources/ch3new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+2.4.6 ({{% resource_link "1c0d0742-8cff-75ed-a2f1-599e8368fd53" "PDF" %}}), 3.1 ({{% resource_link "10025a78-ab17-e1e0-8661-26246b751d11" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Basic Wire Antennas, Arrays
-{{< tdclose >}}
-{{< tdopen >}}
-3.2 ([PDF]({{< baseurl >}}/resources/ch3new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+3.2 ({{% resource_link "10025a78-ab17-e1e0-8661-26246b751d11" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Wire Antennas
-{{< tdclose >}}
-{{< tdopen >}}
-3.2 ([PDF]({{< baseurl >}}/resources/ch3new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+3.2 ({{% resource_link "10025a78-ab17-e1e0-8661-26246b751d11" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Aperture Antennas
-{{< tdclose >}}
-{{< tdopen >}}
-3.3 ([PDF]({{< baseurl >}}/resources/ch3new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+3.3 ({{% resource_link "10025a78-ab17-e1e0-8661-26246b751d11" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Polarization, Phase Errors
-{{< tdclose >}}
-{{< tdopen >}}
-3.3 ([PDF]({{< baseurl >}}/resources/ch3new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+3.3 ({{% resource_link "10025a78-ab17-e1e0-8661-26246b751d11" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Binary Communications
-{{< tdclose >}}
-{{< tdopen >}}
-4.1-4 ([PDF]({{< baseurl >}}/resources/ch4new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+4.1-4 ({{% resource_link "bcfc709f-4d26-465b-45c0-b42615b82b2b" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Quiz 1 (Closed Book)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Channel Coding
-{{< tdclose >}}
-{{< tdopen >}}
-4.5 ([PDF]({{< baseurl >}}/resources/ch4new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+4.5 ({{% resource_link "bcfc709f-4d26-465b-45c0-b42615b82b2b" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Source Coding, Analog Basics
-{{< tdclose >}}
-{{< tdopen >}}
-4.6-7 ([PDF]({{< baseurl >}}/resources/ch4new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+4.6-7 ({{% resource_link "bcfc709f-4d26-465b-45c0-b42615b82b2b" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Analog Modulation
-{{< tdclose >}}
-{{< tdopen >}}
-4.7-8 ([PDF]({{< baseurl >}}/resources/ch4new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+4.7-8 ({{% resource_link "bcfc709f-4d26-465b-45c0-b42615b82b2b" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Aperture Synthesis
-{{< tdclose >}}
-{{< tdopen >}}
-5.1 ([PDF]({{< baseurl >}}/resources/ch5new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+5.1 ({{% resource_link "68fc2245-7714-af27-bf8b-c46f21f6988c" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Interferometry
-{{< tdclose >}}
-{{< tdopen >}}
-5.2 ([PDF]({{< baseurl >}}/resources/ch5new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+5.2 ({{% resource_link "68fc2245-7714-af27-bf8b-c46f21f6988c" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Basic Radar, Ambiguity
-{{< tdclose >}}
-{{< tdopen >}}
-5.3 ([PDF]({{< baseurl >}}/resources/ch5new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+5.3 ({{% resource_link "68fc2245-7714-af27-bf8b-c46f21f6988c" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Synth. Aperture Radar (SAR)
-{{< tdclose >}}
-{{< tdopen >}}
-5.4 ([PDF]({{< baseurl >}}/resources/ch5new)), 6.1.1-2 ([PDF]({{< baseurl >}}/resources/ch6new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+5.4 ({{% resource_link "68fc2245-7714-af27-bf8b-c46f21f6988c" "PDF" %}}), 6.1.1-2 ({{% resource_link "8bb5a32e-fe26-0c85-1b0d-4fb6e8eb0b7d" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Wave Propagation
-{{< tdclose >}}
-{{< tdopen >}}
-3.4 ([PDF]({{< baseurl >}}/resources/ch3new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+3.4 ({{% resource_link "10025a78-ab17-e1e0-8661-26246b751d11" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Linear, Non-Linear Estimation
-{{< tdclose >}}
-{{< tdopen >}}
-6.1.3-5 ([PDF]({{< baseurl >}}/resources/ch6new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+6.1.3-5 ({{% resource_link "8bb5a32e-fe26-0c85-1b0d-4fb6e8eb0b7d" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-{{< tdclose >}}
-{{< tdopen >}}
-Non-Linear Estimation  
-Remote Sensing  
+{{< tdclose >}}{{< tdopen >}}
+Non-Linear Estimation   
+Remote Sensing   
 Course Summary
-{{< tdclose >}}
-{{< tdopen >}}
-6.2 ([PDF]({{< baseurl >}}/resources/ch6new))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+6.2 ({{% resource_link "8bb5a32e-fe26-0c85-1b0d-4fb6e8eb0b7d" "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Quiz #2 (Closed Book)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+## {{< anchor "sup" >}}Supplementary Readings{{< /anchor >}}
 
-{{< tableclose >}}
+Couch II, L. W. *Digital and Analog Communication Systems.* Upper Saddle River, NJ: Prentice-Hall, 1996. ISBN: 0135225833.
 
-{{< anchor "sup" >}}Supplementary Readings{{< /anchor >}}
----------------------------------------------------------
+Feher, Kamilio. *Digital Communications-Satellite/Earth Station Engineering.* Upper Saddle River, NJ: Prentice-Hall Inc., 1983. ISBN: 1884932010.
 
-Couch II, L. W. _Digital and Analog Communication Systems__._ Upper Saddle River, NJ: Prentice-Hall, 1996. ISBN: 0135225833.
+Oppenheim, Alan V., et al. *Signals and Systems.* Upper Saddle River, NJ: Prentice-Hall, 1996. ISBN: 0138147574.
 
-Feher, Kamilio. _Digital Communications-Satellite/Earth Station Engineering__._ Upper Saddle River, NJ: Prentice-Hall Inc., 1983. ISBN: 1884932010.
+Hsu, Hwei P. *Probability, Random Variables and Random Processes .* New York, NY: McGraw-Hill/Schaum’s Outline Series, 1996. ISBN: 0070306443.
 
-Oppenheim, Alan V., et al. _Signals and Systems__._ Upper Saddle River, NJ: Prentice-Hall, 1996. ISBN: 0138147574.
+Schwartz, Mischa. *Information Transmission, Modulation, and Noise.* 2nd ed. New York, NY: McGraw-Hill, 1980. ISBN: 0070559104.
 
-Hsu, Hwei P. _Probability, Random Variables and Random Processes ._ New York, NY: McGraw-Hill/Schaum’s Outline Series, 1996. ISBN: 0070306443.
+Kraus. *Radioastronomy.* Cygnus-Quasar Books, 1986. ISBN: 1882484002.
 
-Schwartz, Mischa. _Information Transmission, Modulation, and Noise__._ 2nd ed. New York, NY: McGraw-Hill, 1980. ISBN: 0070559104.
+Thompson, Moran, and Swenson. *Interferometry and Synthesis in Radio Astronomy.* New York, NY: Wiley-Interscience, 1986. ISBN: 0471254924.
 
-Kraus. _Radioastronomy__._ Cygnus-Quasar Books, 1986. ISBN: 1882484002.
+Skolnik, Merrill. *Introduction to Radar Systems.* New York, NY: McGraw-Hill, 1980. ISBN: 0070579091.
 
-Thompson, Moran, and Swenson. _Interferometry and Synthesis in Radio Astronomy__._ New York, NY: Wiley-Interscience, 1986. ISBN: 0471254924.
+Kingston, Robert H. *Optical Sources, Detectors, and System: Fundamentals and Applications.* Burlington, MA: Academic Press, 1995.
 
-Skolnik, Merrill. _Introduction to Radar Systems__._ New York, NY: McGraw-Hill, 1980. ISBN: 0070579091.
+Yariv, Amnon. *Optical Electronics in Modern Communications.* New York, NY: Oxford University Press, 1997. ISBN: 0195106261.
 
-Kingston, Robert H. _Optical Sources, Detectors, and System: Fundamentals and Applications._ Burlington, MA: Academic Press, 1995.
+Staelin, Morgenthaler, and Kong. *Electromagnetic Waves.* Upper Saddle River, NJ: Prentice Hall, 1993. ISBN: 0132258714.
 
-Yariv, Amnon. _Optical Electronics in Modern Communications__._ New York, NY: Oxford University Press, 1997. ISBN: 0195106261.
+Sklar, Bernard. *Digital Communications.* Upper Saddle River, NJ: Prentice Hall, 1988, 776 pages. ISBN: 0130847887.
 
-Staelin, Morgenthaler, and Kong. _Electromagnetic Waves__._ Upper Saddle River, NJ: Prentice Hall, 1993. ISBN: 0132258714.
+Rieke, G. H. *Detection of Light: from Ultraviolet to the Submillimeter.* Cambridge, UK: Cambridge University Press, 1994, 344 pages. ISBN: 0521017106.
 
-Sklar, Bernard. _Digital Communications__._ Upper Saddle River, NJ: Prentice Hall, 1988, 776 pages. ISBN: 0130847887.
-
-Rieke, G. H. _Detection of Light: from Ultraviolet to the Submillimeter__._ Cambridge, UK: Cambridge University Press, 1994, 344 pages. ISBN: 0521017106.
-
-Manolakis, D. G., V. K. Ingle, and S. M. Kogon. _Statistical and Adaptive Signal Processing__._ New York, NY: McGraw Hill, 1999, 796 pages. ISBN: 0070400512.
+Manolakis, D. G., V. K. Ingle, and S. M. Kogon. *Statistical and Adaptive Signal Processing.* New York, NY: McGraw Hill, 1999, 796 pages. ISBN: 0070400512.
