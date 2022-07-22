@@ -5,6 +5,7 @@ file: /courses/6-661-receivers-antennas-and-signals-spring-2003/49f5662bb9809dba
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture21.pdf
 uid: 49f5662b-b980-9dba-bd65-b1abcdb4f2a7
 ---
 Lecture slides: Synthetic Aperture Radar (SAR)
-

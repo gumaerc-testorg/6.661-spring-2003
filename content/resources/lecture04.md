@@ -5,6 +5,7 @@ file: /courses/6-661-receivers-antennas-and-signals-spring-2003/a239ba9c0ba7b783
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture04.pdf
 uid: a239ba9c-0ba7-b783-0461-0ded975d9c11
 ---
 Lecture slides: Receiver Power Sensitivity
-

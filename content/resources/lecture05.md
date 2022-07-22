@@ -5,6 +5,7 @@ file: /courses/6-661-receivers-antennas-and-signals-spring-2003/fb4e2768460027ab
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture05.pdf
 uid: fb4e2768-4600-27ab-c1ed-0e7544d1ed5b
 ---
 Lecture slides: Spectral Measurements; G; F
-

@@ -5,6 +5,7 @@ file: /courses/6-661-receivers-antennas-and-signals-spring-2003/bcfc709f4d26465b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

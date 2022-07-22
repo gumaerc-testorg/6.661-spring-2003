@@ -5,6 +5,7 @@ file: /courses/6-661-receivers-antennas-and-signals-spring-2003/c5545d5112ac7ad7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture03.pdf
 uid: c5545d51-12ac-7ad7-a2a1-034b32c5a0b1
 ---
 Lecture slides: 3-D Thermal Noise, Shot N
-

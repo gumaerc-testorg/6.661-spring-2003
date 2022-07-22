@@ -5,6 +5,7 @@ file: /courses/6-661-receivers-antennas-and-signals-spring-2003/11d2e4e79ec5ec40
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture19.pdf
 uid: 11d2e4e7-9ec5-ec40-c498-ba4f9a57c4c4
 ---
 Lecture slides: Interferometry
-
