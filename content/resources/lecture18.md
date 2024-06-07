@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture slides: Aperture Synthesis'
 file: /courses/6-661-receivers-antennas-and-signals-spring-2003/893669e1e175fcba8c6c3674a7a79bee_lecture18.pdf
+file_size: 1764867
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

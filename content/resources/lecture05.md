@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture slides: Spectral Measurements; G; F'
 file: /courses/6-661-receivers-antennas-and-signals-spring-2003/fb4e2768460027abc1ed0e7544d1ed5b_lecture05.pdf
+file_size: 120077
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

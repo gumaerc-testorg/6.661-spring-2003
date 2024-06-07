@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture slides: Polarization; Phase Errors'
 file: /courses/6-661-receivers-antennas-and-signals-spring-2003/a7ae1cf17a91424ce08a70c21bb17215_lecture13.pdf
+file_size: 145007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

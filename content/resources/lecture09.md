@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture slides: Bolometers; Antenna Basics'
 file: /courses/6-661-receivers-antennas-and-signals-spring-2003/eb249537eed20d0865d5260804efa9f1_lecture09.pdf
+file_size: 162871
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
