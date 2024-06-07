@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture slides: Optical Detection'
 file: /courses/6-661-receivers-antennas-and-signals-spring-2003/9acf06125bf2899e005e1876e0171a07_lecture08.pdf
+file_size: 114573
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

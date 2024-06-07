@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture slides: Synthetic Aperture Radar (SAR)'
 file: /courses/6-661-receivers-antennas-and-signals-spring-2003/49f5662bb9809dbabd65b1abcdb4f2a7_lecture21.pdf
+file_size: 157896
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
