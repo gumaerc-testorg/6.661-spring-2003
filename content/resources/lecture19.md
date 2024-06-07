@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture slides: Interferometry'
 file: /courses/6-661-receivers-antennas-and-signals-spring-2003/11d2e4e79ec5ec40c498ba4f9a57c4c4_lecture19.pdf
+file_size: 1590790
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture slides: Receiver Noise; Multiports'
 file: /courses/6-661-receivers-antennas-and-signals-spring-2003/34219e23d858375d1c802669f2969dfc_lecture06.pdf
+file_size: 115341
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

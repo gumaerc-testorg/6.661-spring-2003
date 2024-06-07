@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture slides: Analog Modulation'
 file: /courses/6-661-receivers-antennas-and-signals-spring-2003/54de375b98a8b8ebcae34e090fac4abd_lecture17.pdf
+file_size: 110496
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

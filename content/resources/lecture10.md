@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture slides: Basic Wire Antennas; Arrays'
 file: /courses/6-661-receivers-antennas-and-signals-spring-2003/a477b5fbc2dee5e3b6851957704ae14b_lecture10.pdf
+file_size: 157341
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

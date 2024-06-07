@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-661-receivers-antennas-and-signals-spring-2003/bcfc709f4d26465b45c0b42615b82b2b_ch4new.pdf
+file_size: 348035
 file_type: application/pdf
 learning_resource_types:
 - Readings
