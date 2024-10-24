@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture slides: Review; Thermal Noise'
-file: /courses/6-661-receivers-antennas-and-signals-spring-2003/cf6a71860123431d874ad72da5ad5af7_lecture02.pdf
+file: /ol-ocw-studio-app/courses/6-661-receivers-antennas-and-signals-spring-2003/cf6a71860123431d874ad72da5ad5af7_lecture02.pdf
 file_size: 106096
 file_type: application/pdf
 learning_resource_types:
