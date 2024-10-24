@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture slides: Source Coding; Analog Basics'
-file: /courses/6-661-receivers-antennas-and-signals-spring-2003/c7cfd1ceef70e38a0ac5a0090763e8da_lecture16.pdf
+file: /ol-ocw-studio-app/courses/6-661-receivers-antennas-and-signals-spring-2003/c7cfd1ceef70e38a0ac5a0090763e8da_lecture16.pdf
 file_size: 147377
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-661-receivers-antennas-and-signals-spring-2003/72d76cb625689663d82ebaf1cc0174d4_ch1new.pdf
+file: /ol-ocw-studio-app/courses/6-661-receivers-antennas-and-signals-spring-2003/72d76cb625689663d82ebaf1cc0174d4_ch1new.pdf
 file_size: 62551
 file_type: application/pdf
 learning_resource_types:
