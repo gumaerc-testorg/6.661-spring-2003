@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture slides: 3-D Thermal Noise, Shot N'
-file: /ol-ocw-studio-app/courses/6-661-receivers-antennas-and-signals-spring-2003/c5545d5112ac7ad7a2a1034b32c5a0b1_lecture03.pdf
+file: /courses/6-661-receivers-antennas-and-signals-spring-2003/c5545d5112ac7ad7a2a1034b32c5a0b1_lecture03.pdf
 file_size: 104815
 file_type: application/pdf
 learning_resource_types:

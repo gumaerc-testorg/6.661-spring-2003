@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture slides: Receiver Power Sensitivity'
-file: /ol-ocw-studio-app/courses/6-661-receivers-antennas-and-signals-spring-2003/a239ba9c0ba7b78304610ded975d9c11_lecture04.pdf
+file: /courses/6-661-receivers-antennas-and-signals-spring-2003/a239ba9c0ba7b78304610ded975d9c11_lecture04.pdf
 file_size: 125661
 file_type: application/pdf
 learning_resource_types:
