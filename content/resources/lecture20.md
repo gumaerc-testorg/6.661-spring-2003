@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture slides: Basic Radar; Ambiguity'
-file: /ol-ocw-studio-app/courses/6-661-receivers-antennas-and-signals-spring-2003/ab61e474d94704d2ca85b0a3a89a45b0_lecture20.pdf
+file: /courses/6-661-receivers-antennas-and-signals-spring-2003/ab61e474d94704d2ca85b0a3a89a45b0_lecture20.pdf
 file_size: 170079
 file_type: application/pdf
 learning_resource_types:

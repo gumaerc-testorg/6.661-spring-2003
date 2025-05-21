@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture slides: Wire Antennas'
-file: /ol-ocw-studio-app/courses/6-661-receivers-antennas-and-signals-spring-2003/3cdf16999bcd9fd63dd3312d91edc37a_lecture11.pdf
+file: /courses/6-661-receivers-antennas-and-signals-spring-2003/3cdf16999bcd9fd63dd3312d91edc37a_lecture11.pdf
 file_size: 200895
 file_type: application/pdf
 learning_resource_types:
