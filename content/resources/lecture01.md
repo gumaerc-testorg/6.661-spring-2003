@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture slides: Introduction and Review'
-file: /ol-ocw-studio-app/courses/6-661-receivers-antennas-and-signals-spring-2003/c76d2051feba4049b450af7b439794c4_lecture01.pdf
+file: /courses/6-661-receivers-antennas-and-signals-spring-2003/c76d2051feba4049b450af7b439794c4_lecture01.pdf
 file_size: 104159
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture slides: Non-Linear Estimation (cont.); Remote Sensing; Course
   Summary'
-file: /ol-ocw-studio-app/courses/6-661-receivers-antennas-and-signals-spring-2003/0ed1504f69d12f67ba8bcefb81a008ea_lecture24.pdf
+file: /courses/6-661-receivers-antennas-and-signals-spring-2003/0ed1504f69d12f67ba8bcefb81a008ea_lecture24.pdf
 file_size: 110057
 file_type: application/pdf
 learning_resource_types:
