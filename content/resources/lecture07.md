@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture slides: Mixers; Noise Reduction; PTs'
-file: /courses/6-661-receivers-antennas-and-signals-spring-2003/e63a7bc51c3895ce5772c7b451476c5d_lecture07.pdf
+file: /ol-ocw-studio-app/courses/6-661-receivers-antennas-and-signals-spring-2003/e63a7bc51c3895ce5772c7b451476c5d_lecture07.pdf
 file_size: 113231
 file_type: application/pdf
 learning_resource_types:

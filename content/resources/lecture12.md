@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture slides: Aperture Antennas'
-file: /courses/6-661-receivers-antennas-and-signals-spring-2003/82744f45ab46a18eff4089bfd8813344_lecture12.pdf
+file: /ol-ocw-studio-app/courses/6-661-receivers-antennas-and-signals-spring-2003/82744f45ab46a18eff4089bfd8813344_lecture12.pdf
 file_size: 310070
 file_type: application/pdf
 learning_resource_types:
